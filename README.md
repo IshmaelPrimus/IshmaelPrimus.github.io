@@ -1,4 +1,3 @@
-
 # KTRK-TV SNIPECAST Front-End-HTML-Web-Application 
 <br />
 <br />
