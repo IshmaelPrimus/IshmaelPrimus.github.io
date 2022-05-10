@@ -1,7 +1,6 @@
-# KTRK-TV SNIPECAST Front-End-HTML-Web-Application 
+# KTRK-TV SNIPECAST Front-End-HTML-Web-Application https://ishmaelprimus.github.io/
 <br />
 <br />
-
 
 
 
